@@ -8,11 +8,11 @@ la funcion
 
 reemplazar la linea 
 
-><h1 class="page-title"><?php woocommerce_page_title(); ?></h1>
+```<h1 class="page-title"><?php woocommerce_page_title(); ?></h1>```
 
 por 
 
-        ```<div class="section-title">
-				<h1 class="page-title"><?php woocommerce_page_title(); ?></h1>
-				<hr>
-				</div>```
+```<div class="section-title">
+<h1 class="page-title"><?php woocommerce_page_title(); ?></h1>
+<hr>
+</div>```
