@@ -1,0 +1,10 @@
+/* Center product elements on shop pages */
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+  text-align:center;
+}
+.woocommerce .products .star-rating, .woocommerce-page .products .star-rating {
+  float:none;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
